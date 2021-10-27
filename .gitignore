@@ -10,5 +10,5 @@
 .ionide
 
 ### Build results
-# ApiCatalogoJogos/bin/
-# ApiCatalogoJogos/obj/
+ApiCatalogoJogos/bin/
+ApiCatalogoJogos/obj/
