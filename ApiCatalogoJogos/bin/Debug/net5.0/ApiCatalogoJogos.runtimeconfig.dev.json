@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/reno/.dotnet/store/|arch|/|tfm|",
+      "/home/reno/.nuget/packages"
+    ]
+  }
+}
