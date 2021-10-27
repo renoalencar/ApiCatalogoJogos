@@ -4,7 +4,7 @@
 
 ### Sobre
 
-Este projeto foi desenvolvido para exemplificar a estrutura de uma API Rest durante o bootcamp [Avanade CodeAnywhere .NET](https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path).
+Este projeto foi desenvolvido durante o bootcamp [Avanade CodeAnywhere .NET](https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path) com o objetivo de exemplificar a estrutura de uma API Rest.
 
 ### Conceitos Abordados
 
